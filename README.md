@@ -10,6 +10,7 @@
 - discord_api (滑翔附属插件)
 - MovementHUD (更专业地显示速度与按键的插件)
 - csgo_movement_unlocker (允许prestrafe的插件)
+- nightvision (夜视插件)
 
 ## 必要依赖
 
