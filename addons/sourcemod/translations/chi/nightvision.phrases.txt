@@ -1,0 +1,56 @@
+"Phrases"
+{
+	"nightvision_enabled"
+	{
+		"chi"	"[夜视] 夜视效果开启。(输入!nvs设置夜视模板)"
+	}
+	
+	"nightvision_disabled"
+	{
+		"chi"	"[夜视] 夜视效果关闭。"
+	}
+	
+	"nightvision_spam_attempt"
+	{
+		"chi"	"[夜视] 请勿过快操作。"
+	}
+	
+	"nvs_menu_title"
+	{
+		"chi"	"夜视设置："
+	}
+	
+	"nvs_menu_ccselect"
+	{
+		"chi"	"选择夜视模板"
+	}
+	
+	"nvs_menu_intensity"
+	{
+		"#format" 	"{1:.02f}"
+		"chi"	"当前夜视强度: {1}"
+	}
+	
+	"nvs_menu_intensity_increase"
+	{
+		"#format" 	"{1:.02f}"
+		"chi"	"增加 {1}"
+	}
+	
+	"nvs_menu_intensity_decrease"
+	{
+		"#format" 	"{1:.02f}"
+		"chi"	"减少 {1}"
+	}
+	
+	"cct_menu_title"
+	{
+		"chi"	"夜视模板"
+	}
+	
+	"cct_menu_curr_template"
+	{
+		"#format" 	"{1:s}"
+		"chi"	"当前模板: {1}"
+	}
+}
